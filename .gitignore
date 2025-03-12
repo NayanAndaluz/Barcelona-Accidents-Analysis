@@ -1,0 +1,24 @@
+# Ignore virtual environment
+env/
+venv/
+
+# Ignore de VS Code settings
+.vscode/
+
+# Ignore caché 
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore checkpoints files
+.ipynb_checkpoints/
+
+# Ignore big files)
+data/
+*.csv
+*.shp
+*.json
+
+# Ignorar hidden files
+.DS_Store
+Thumbs.db
